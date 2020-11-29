@@ -94,6 +94,11 @@ Now you're ready to do something awesome!
 
 
 
+## Platform support
+
+Demos are supported on Desktop Chrome and iOS Safari.
+
+
 <!-- ROADMAP -->
 ## Roadmap
 
