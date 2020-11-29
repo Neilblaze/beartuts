@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://beartuts.netlify.app/">
-    <img src="https://raw.githubusercontent.com/Neilblaze/beartuts/main/resources/images/beartuts.png" width="400px" alt="SecurePDF" >
+    <img src="https://raw.githubusercontent.com/Neilblaze/beartuts/main/resources/images/beartuts.png" width="400px" alt="BearTuts" >
   </a>
 
   <p align="center">
