@@ -96,6 +96,11 @@ yarn watch
 
 Now you're ready to do something awesome!
 
+## Platform support
+
+Demos are supported on Desktop Chrome and iOS Safari.
+
+It should also run on Chrome on Android and potentially more Android mobile browsers though support has not been tested yet.
 
 
 <!-- ROADMAP -->
