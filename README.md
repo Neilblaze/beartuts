@@ -41,6 +41,7 @@
     <img src="https://raw.githubusercontent.com/Neilblaze/beartuts/main/resources/images/bearscholar.png" width="200px" height="200px" alt="BearTuts" >
   </a>
 
+Beartuts based on Tensorflow.js, where the main goal is to provide a next level teaching experience between teachers and childrens specifically toddlers 👶.
 
 ### Built With
 
@@ -54,7 +55,6 @@
 * [Modernizr](https://modernizr.com/)
 
 
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -64,7 +64,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* yarn
 ```sh
 sudo apt install yarn
 ```
@@ -96,6 +96,13 @@ Now you're ready to do something awesome!
 
 <!-- ROADMAP -->
 ## Roadmap
+
+- Add on-screen canvas video screen-recording & screen-capturing feature.
+- Add more characters (Currently on Bear)
+- Custom Background set feature.
+- Direct interaction with Zoom, Google Meet & similar softwares.
+- Creating a native Android™/Flutter™ app.
+
 
 See the [open issues](https://github.com/Neilblaze/beartuts/issues) for a list of proposed features (and known issues).
 
