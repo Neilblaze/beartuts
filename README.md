@@ -124,7 +124,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-This project is maintained by ➡️ [Pratyay Banerjee](https://github.com/Neilblaze), [Sandipan Dey](https://github.com/sandipndev), [Saif Ali](https://github.com/fias786) 
+This project is maintained by ➡️ [Pratyay Banerjee](https://github.com/Neilblaze) ⚡, [Sandipan Dey](https://github.com/sandipndev) 🍕, [Saif Ali](https://github.com/fias786) 😎
 
 Crafted with ♥ for [HackNotts 2020](https://www.hacknotts.com/) by [Prattay Banerjee](https://github.com/neilblaze), [Sandipan Dey](https://github.com/sandipndev) and [Saif Ali](https://github.com/fias786)
 
