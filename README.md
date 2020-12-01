@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://beartuts.netlify.app">
-    <img src="https://raw.githubusercontent.com/Neilblaze/beartuts/main/resources/images/bearscholar.png" width="130px" height="130px" alt="BearTuts" >
+    <img src="https://raw.githubusercontent.com/Neilblaze/beartuts/utils/resources/images/screenshot291120.png" width="800px" height="400px" alt="BearTuts" >
   </a>
 
 BearTuts based on Tensorflow.js, where the main goal is to provide a next level teaching experience between teachers and childrens specifically toddlers 👶. In this COVID-19 pandemic, teaching on Work from Home basis has become a great mess, especially for toddlers. Project Here BearTuts comes to the rescue. BearTuts is easy to use & requires no custom application/software installation. Just click on [View Demo](https://beartuts.netlify.app/) & wait for the model to load & you're good to go!
